@@ -1,4 +1,4 @@
 nginx:
-  replicas: 4
+  replicas: 7
   image: nginx
   tag: "1.7.9"
